@@ -1,2 +1,0 @@
-For libraries, extract the gamesense from the compressed file in C:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive
-the path to the libraries should look like this: C:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\gamesense
